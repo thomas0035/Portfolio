@@ -46,6 +46,9 @@ counter in the bottom-right HUD tracks progress.
 
 ## Deploy (Vercel)
 
-1. Push to GitHub.
-2. Vercel → New Project → import. Framework preset: Vite. No env vars needed.
-3. `vercel.json` rewrites all routes to `index.html`.
+Live: https://portfolio-rust-sigma-bs4k3zljte.vercel.app
+Repo: https://github.com/thomas0035/Portfolio
+
+The Vercel project is linked to this repo: every push to `main` deploys to
+production. Manual deploy from the folder: `vercel deploy --prod`.
+`vercel.json` rewrites all routes to `index.html`.
