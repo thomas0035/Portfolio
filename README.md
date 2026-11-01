@@ -46,7 +46,7 @@ counter in the bottom-right HUD tracks progress.
 
 ## Deploy (Vercel)
 
-Live: https://portfolio-rust-sigma-bs4k3zljte.vercel.app
+Live: https://thomasbiju.vercel.app (also portfolio-rust-sigma-bs4k3zljte.vercel.app)
 Repo: https://github.com/thomas0035/Portfolio
 
 The Vercel project is linked to this repo: every push to `main` deploys to
